@@ -35,3 +35,13 @@ body {
 .homeTitle {
     color: black;
 }
+
+.cardBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    flex: auto;
+}
